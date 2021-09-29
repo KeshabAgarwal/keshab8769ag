@@ -1,0 +1,5 @@
+{
+	"ip":"KeshabSMP.aternos.me",
+	"port": "43872",
+	"name": "afkbot"
+}
